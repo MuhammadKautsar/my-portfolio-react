@@ -1,0 +1,122 @@
+{
+    "main": {
+        "name" : "Muhammad Kautsar",
+        "description": "I am a web developer with 2 years experience in developing web applications.",
+        "image":"profilepic.jpg",
+        "github":"https://github.com/MuhammadKautsar",
+        "project":"https://github.com/mutiarahmatun",
+        "bio": "I am a web developer with 2 years experience in developing web applications.",
+        "contactmessage":"Hello, I am here",
+        "email": "muhamadkausar8@gmail.com",
+        "phone": "0853-5848-5969",
+        "address":{
+            "street":"Jl Grong-grong Sanggeu",
+            "city":"Sigli",
+            "state":"Aceh",
+            "zip": "24152"
+        },
+        "website": "https://github.com/MuhammadKautsar",
+        "resumedownload":"https://drive.google.com/file/d/1piBdNfpgaQnoV0Hn4FfP_4yxOkxvn9oh/view?usp=sharing",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://web.facebook.com/mhdkautsar",
+            "className": "fa fa-facebook"
+          },
+          {
+            "name":"twitter",
+            "url":"https://twitter.com/muhamad_kausar",
+            "className":"fa fa-twitter"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/mhd-kautsar/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"https://www.instagram.com/muhamad_kausar/",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/MuhammadKautsar",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"here you can see the skills that I have",
+        "education" : [
+            {
+                "school": "Universitas Syiah Kuala",
+                "degree": "Bachelor degree of Computer Science",
+                "graduated": "2016 - 2022",
+                "description" : "GPA : 3.40"
+            }
+        ],
+        "work": [
+            {
+                "company" : "D3 Agribisnis FP USK",
+                "title" : "Web Developer",
+                "years": "June 2021 - August 2022",
+                "description": "Creating a web application for admins and sellers of hydroponic plants in the city of Banda Aceh"
+            }, {
+                "company": "Peternakan Nazar Unggas",
+                "title": "Web Developer",
+                "years": "March 2023 - May 2023",
+                "description": "Creating livestock data management information systems, such as daily data reports, operational costs etc."
+            }
+        ],
+        "skills": [
+            {
+                "name" : "Laravel",
+                "level": "80%"
+            },
+            {
+                "name": "CodeIgniter",
+                "level": "70%"
+            },
+            {
+                "name": "MySQL",
+                "level": "70%"
+            },
+            {
+                "name": "VueJS",
+                "level": "60%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "AgriHub",
+                "category": "Laravel",
+                "image": "01.png",
+                "url": "http://103.41.169.122/"
+            },
+            {
+                "title":"Nazar Unggas",
+                "category":"CodeIgniter",
+                "image":"02.png",
+                "url":"https://nazar-unggas.com/"
+              },
+              {
+                "title":"Caturday",
+                "category":"VueJS",
+                "image":"03.png",
+                "url":"https://belajar-vue-prakerja.vercel.app/"
+              },
+              {
+                "title":"Fotokopi Mawar",
+                "category":"A React based resume website template",
+                "image":"05.png",
+                "url":"https://github.com/MuhammadKautsar/fotokopi-mawar-app"
+              }
+        ]
+    }
+}
