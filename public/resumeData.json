@@ -1,11 +1,11 @@
 {
     "main": {
         "name" : "Muhammad Kautsar",
-        "description": "I am a web developer with 2 years experience in developing web applications.",
+        "description": "I am a web developer with 4 years experience in developing web applications.",
         "image":"profilepic.jpg",
         "github":"https://github.com/MuhammadKautsar",
         "project":"https://github.com/mutiarahmatun",
-        "bio": "I am a web developer with 2 years experience in developing web applications.",
+        "bio": "I am a web developer with 4 years experience in developing web applications.",
         "contactmessage":"Hello, I am here",
         "email": "muhamadkausar8@gmail.com",
         "phone": "0853-5848-5969",
@@ -16,7 +16,7 @@
             "zip": "24152"
         },
         "website": "https://github.com/MuhammadKautsar",
-        "resumedownload":"https://drive.google.com/file/d/1piBdNfpgaQnoV0Hn4FfP_4yxOkxvn9oh/view?usp=sharing",
+        "resumedownload":"https://drive.google.com/file/d/11sWqklTfLjBo-K6UH-dp0fd3Ho2gAkUO/view?usp=sharing",
         "social":[
           {
             "name": "facebook",
@@ -57,10 +57,15 @@
         ],
         "work": [
             {
+                "company" : "UPT TIK USK - LPPM",
+                "title" : "Web Developer",
+                "years": "February 2024 - Present",
+                "description": "Maintain and develop new features for web applications under the LPPM unit, such as SIMPPM and KKN USK."
+            }, {
                 "company" : "D3 Agribisnis FP USK",
                 "title" : "Web Developer",
                 "years": "June 2021 - August 2022",
-                "description": "Creating a web application for admins and sellers of hydroponic plants in the city of Banda Aceh"
+                "description": "Creating a web application for admins and sellers of hydroponic plants in the city of Banda Aceh."
             }, {
                 "company": "Peternakan Nazar Unggas",
                 "title": "Web Developer",
@@ -71,11 +76,11 @@
         "skills": [
             {
                 "name" : "Laravel",
-                "level": "80%"
+                "level": "70%"
             },
             {
                 "name": "CodeIgniter",
-                "level": "70%"
+                "level": "80%"
             },
             {
                 "name": "MySQL",
